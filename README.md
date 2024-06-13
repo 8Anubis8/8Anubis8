@@ -8,10 +8,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://vk.com/8v_e_n_o_m8">
+  <a href="https://vk.com/anubis_8">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
-  <a href="https://t.me/V_e_n_o_m34">
+  <a href="https://t.me/Anubis_8_34">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
@@ -32,7 +32,7 @@ I am a C#/Unity Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :video_game: I play computer games in my free time, :telescope: and so I get to know and delve into the study of working with the Unity game engine, as well as working with databases in PostgreSQL and Entity Framework
 
-- 	:incoming_envelope: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/V_e_n_o_m34)
+- 	:incoming_envelope: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Anubis_8_34)
 
 ### :hammer_and_wrench: Languages and Tools :
 
